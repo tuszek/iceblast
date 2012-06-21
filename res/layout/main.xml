@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/menu_portret"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="30dip"
+    android:orientation="horizontal" >
+<LinearLayout 
+    android:orientation="vertical"
+	android:layout_height="wrap_content"
+	android:layout_width="fill_parent"
+	android:paddingTop="70dip"
+	android:layout_gravity="center">
+    <Button 
+        android:id="@+id/przycisk_trening"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etykieta_jeden" />
+    <Button 
+        android:id="@+id/przycisk_wielu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etykieta_wielu" />
+    <Button 
+        android:id="@+id/przycisk_info"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etykieta_info" />
+    <Button 
+        android:id="@+id/przycisk_about"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etykieta_about" />
+    <Button 
+        android:id="@+id/przycisk_wyjscie"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etykieta_exit" />
+
+</LinearLayout>
+</LinearLayout>

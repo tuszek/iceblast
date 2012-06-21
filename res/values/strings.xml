@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tytul">IceBlast! from BlastTeam :D </string>
+    <string name="app_name">IceBlast</string>
+    <string name="etykieta_jeden">Trening</string>
+    <string name="etykieta_wielu">Multiplayer</string>
+    <string name="etykieta_info">Instrukcje</string>
+    <string name="etykieta_about">O grze</string>
+    <string name="etykieta_exit">Wyjście</string>
+    
+    <string name="tytul_info">Instrukcje</string>
+    <string name="tekst_info">
+        Celem gry jest umieszczenie krążka w bramce przeciwnika. 
+        Za każde przekroczenie linii bramkowej gracza naliczany jest punkt dla przeciwnika
+        niezależnie który gracz skierował krążek do bramki. Nawigacja odbywa się za pomocą ekranu dotykowego.
+        \n\n
+        Trening: 
+        \n
+		Celem treningu jest zapoznanie gracza z fizyką gry. 
+		Na planszy znajduje się krążek oraz grzybek, który jest bezpośrednio sterowany przez gracza. 
+		W trakcie gry pojawia się także przeszkoda utrudniająca zdobycie punktu. 
+        \n\n
+        Mulitplayer: Multitouch
+        \n
+		Tryb Multiplayer pozwala na przeprowadzenie rozgrywki dla dwóch graczy na jednym urządzeniu korzystając funkcji
+	 	multitouch urządzenia. Poruszanie grzybkami graczy jest ograniczone do własnej połowy. 
+	 	Podczas rozgrywki na aktywowane są losowe bonusy dla graczy. Wygrywa gracz, który pierwszy osiągnie 10 punktów.
+        \n\n
+        Multiplayer: LAN
+        \n
+		Tryb Multiplayer przez sieć lokalną pozwala na przeprowadzenie rozgrywki dwóch graczy podłączonych do sieci
+		lokalnej za pomocą WiFi. Jeden z graczy musi uruchomić serwer gry, drugi podłączyć się do serwera. 
+		Poruszanie grzybkami graczy jest ograniczone do własnej połowy. Podczas rozgrywki na aktywowane są losowe bonusy dla graczy. 
+		Wygrywa gracz, który pierwszy osiągnie 10 punktów.
+        \n\n
+        Bonusy:
+        \n
+        Podczas rozgrywki pojawiają się na planszy losowo bonusy:
+        \n
+		- dodanie każdemu graczowi po 1 punkcie \n
+		- dodanie losowemu graczowi 1 punkcie \n
+		- tymczasowa zmiana rozmiaru bramki \n
+		- tymczasowa blokada bramki gracza \n
+		- tymczasowe zmniejszenie rozmiaru krążka \n
+		- tymczasowe zwiększenie rozmiaru krążka \n
+        </string>
+        
+    <string name="tytul_about">O grze</string>
+    <string name="tekst_about">
+        IceBlast \n\n
+		http://iceblast.jestspoko.pl/ \n\n
+		Twórcy gry: \n\n
+		Developerzy: \n
+		Łukasz Pogorzelski \n
+		Bartłomiej Tuszkowski \n
+		Tomasz Zaborowski \n\n
+		Grafika: \n
+		Piotr Knopczyński \n\n
+		Licencja: BSD \n
+		2012 
+</string>
+	
+	<!-- multiplayer -->
+	<string name="tytul_multiplayer">Wybierz tryb</string>
+		
+</resources>
