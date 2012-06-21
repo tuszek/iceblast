@@ -3,6 +3,7 @@ bin/**
 doc/**
 gen/**
 documents/**
+*.svn/**
 *.class
 
 # Package Files #
