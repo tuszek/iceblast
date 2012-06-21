@@ -1,3 +1,8 @@
+target/**
+bin/**
+doc/**
+gen/**
+documents/**
 *.class
 
 # Package Files #
